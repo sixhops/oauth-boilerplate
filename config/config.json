@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "githuboauth",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "githuboauth",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "database": "githuboauth",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
